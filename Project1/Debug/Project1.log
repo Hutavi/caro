@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\Project1\Source.cpp(20,21): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\Project1\Source.cpp(58,12): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\Project1\Source.cpp(59,15): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Project1.vcxproj -> C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\Debug\Project1.exe

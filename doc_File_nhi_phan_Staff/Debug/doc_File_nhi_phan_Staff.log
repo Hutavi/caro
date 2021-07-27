@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\doc_File_nhi_phan_Staff\Main.cpp(25,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\doc_File_nhi_phan_Staff\Main.cpp(49,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  doc_File_nhi_phan_Staff.vcxproj -> C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\Debug\doc_File_nhi_phan_Staff.exe

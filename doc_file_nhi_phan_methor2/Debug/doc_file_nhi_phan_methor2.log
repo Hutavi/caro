@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\doc_file_nhi_phan_methor2\main.cpp(25,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  doc_file_nhi_phan_methor2.vcxproj -> C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\Debug\doc_file_nhi_phan_methor2.exe

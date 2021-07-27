@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\Doc_File_Bin_2915\main.cpp(23,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Doc_File_Bin_2915.vcxproj -> C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\Debug\Doc_File_Bin_2915.exe

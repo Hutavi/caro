@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\TestLast_CNTN_2017_ReadFile_Bin\Main.cpp(19,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  TestLast_CNTN_2017_ReadFile_Bin.vcxproj -> C:\Users\PC\source\repos\Kỹ thuật lập trình\Test Mid Term cua nguoi ta\Debug\TestLast_CNTN_2017_ReadFile_Bin.exe
